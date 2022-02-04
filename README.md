@@ -5,7 +5,6 @@ The Major Libraries which have to be installed for running this project are :
     scikit-learn
     scipy
     numpy
-    tweepy
     pickle
     random
     pandas
